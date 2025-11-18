@@ -1,4 +1,4 @@
-#🌻 Holà ! Moi c'est Amélie !
+# 🌻 Holà ! Moi c'est Amélie !
 👩‍💻 Etudiante en deuxième année de BUT MMI - parcours Développement Web et Dispositifs Intéractifs, à l'IUT de Haguenau.<br/> 
 🪐 Développeuse Web en devenir, je travaille chaque jour à développer mes compétences.<br/>
 🎸 Bassiste à mes heures perdues, j'aime aussi lire et jouer à des jeux vidéos.<br/>
@@ -8,7 +8,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Amzouz&theme=aura_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
-#🌺 Ma Dev' Stack :
+## 🌺 Ma Dev' Stack :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
